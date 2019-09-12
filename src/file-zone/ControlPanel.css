@@ -9,4 +9,6 @@
 #format-actions {
     width: 200px;
     margin-right: 400px;
+    display: flex;
 }
+
